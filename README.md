@@ -364,8 +364,8 @@ Computer Science Engineering · AI & Machine Learning Specialization
 
 > *"I believe in understanding systems from the ground up — not just using libraries, but knowing what they do underneath. This project is that principle applied to networking and ML together."*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Adityamax0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya-pandey-ai-ml)
 
 ---
 
