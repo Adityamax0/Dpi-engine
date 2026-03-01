@@ -1,0 +1,20 @@
+# DPI Engine — Python Dependencies
+# Author: Aditya Pandey
+# Built with Python + Claude (Anthropic AI)
+#
+# Install all at once:
+#   pip install -r requirements.txt
+#
+# Windows extra (for live capture):
+#   1. Install Npcap from https://npcap.com
+#   2. Run PowerShell as Administrator when capturing
+
+# ── Dashboard (Web UI) ──
+flask>=2.3.0
+
+# ── Live Packet Capture ──
+scapy>=2.5.0
+
+# ── ML Traffic Classifier ──
+scikit-learn>=1.3.0
+numpy>=1.24.0
